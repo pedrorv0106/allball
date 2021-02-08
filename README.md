@@ -20,9 +20,6 @@ Users can click on a game card and be shown both a statistic log for each player
 Users can also search for players by name.
 !["search results"](src/assets/searchResultsScreenShot.png)
 
-Upon clicking one of the searched players, the user will be shown the player's card which displays the name, team and, if applicable, the height and weight of the player. Under the player card is a complete list of game logs for the current season along with their current season averages.
-!["searched player"](src/assets/searchedPlayerScreenshot.png)
-
 ## Technologies
 all ball is created with:
 
